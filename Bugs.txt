@@ -1,0 +1,6 @@
+Bugs:
+
+For invalid input, expected response code should be 400
+but the actual code is 500
+
+Proper response message for invalid input/invalid end points/missing end points
